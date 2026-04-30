@@ -1,0 +1,11 @@
+# MCP configuration files with secrets
+.kiro/settings/mcp.json
+.vscode/mcp.json
+.cursor/mcp.json
+.claude/mcp.json
+.mcp.json
+**/mcp.json
+
+# Environment files
+.env
+.env.local
